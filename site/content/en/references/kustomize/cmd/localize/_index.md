@@ -31,7 +31,7 @@ The command takes the following form:
 <pre>
 <b>kustomize localize</b> [<ins>target</ins> [<ins>newDir</ins>]] [--scope <ins>scope</ins>]
 </pre>
-
+</body>
 where
 
 * `target` is the kustomization root to localize.
